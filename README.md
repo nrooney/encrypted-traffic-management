@@ -1,4 +1,4 @@
-# |Network Management of Encrypted traffic|
+# Network Management of Encrypted traffic
 
 This is the working area for the IETF Internet draft of |Network Management of Encrypted traffic| 
 
