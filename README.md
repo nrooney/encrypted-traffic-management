@@ -2,7 +2,7 @@
 
 This is the working area for the IETF Internet draft of Network Management of Encrypted traffic 
 
-* [Editor's copy](https://github.com/Kevsy/encrypted-traffic-management/gh-pages/draft-smith-saag-encrypted-traffic-management.html)
+* [Editor's copy](https://github.com/Kevsy/encrypted-traffic-management/gh-pages)
 * Working Group Draft
 
 
